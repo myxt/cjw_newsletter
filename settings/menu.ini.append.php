@@ -22,8 +22,8 @@ Tabs[]=newsletter
 NavigationPartIdentifier=eznewsletternavigationpart
 URL[]
 URL[default]=newsletter/index
-Name=Nieuwsbrieven
-Tooltip=Nieuwsbrieven beheren
+Name=Newsletter
+Tooltip=Adminbereich Newsletter
 
 Enabled[]
 Enabled[default]=true
