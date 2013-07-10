@@ -22,6 +22,7 @@ ScriptDirectories[]=cronjobs
 
 #Scripts[]=cjw_newsletter_mailqueue_create.php
 #Scripts[]=cjw_newsletter_mailqueue_process.php
+#Scripts[]=cjw_newsletter_getbounce.php
 
 # CronjobPart for Testing
 [CronjobPart-cjw_newsletter]
@@ -34,5 +35,8 @@ Scripts[]=cjw_newsletter_mailqueue_create.php
 
 [CronjobPart-cjw_newsletter_mailqueue_process]
 Scripts[]=cjw_newsletter_mailqueue_process.php
+
+[CronjobPart-cjw_newsletter_getbounce_process]
+Scripts[]=cjw_newsletter_getbounce.php
 
 */ ?>
