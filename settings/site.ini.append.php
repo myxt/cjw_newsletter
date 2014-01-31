@@ -16,13 +16,12 @@
 # so you have the fully control which ts files are loaded
 
 [RegionalSettings]
-Locale=dut-NL
-ContentObjectLocale=dut-NL
-SiteLanguageList[]
-SiteLanguageList[]=dut-NL
+#Locale=dut-NL
+#ContentObjectLocale=dut-NL
+#SiteLanguageList[]
+#SiteLanguageList[]=dut-NL
 
-#TranslationExtensions[]=cjw_newsletter
-
+TranslationExtensions[]=cjw_newsletter
 
 [TemplateSettings]
 ExtensionAutoloadPath[]=cjw_newsletter
