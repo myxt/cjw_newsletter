@@ -3,479 +3,479 @@
     <name>cjw_newsletter</name>
     <message>
         <source>Newsletter</source>
-         <translation>Nieuwsbrief</translation>
+        <translation>Nieuwsbrief</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/blacklist_item_add</name>
     <message>
         <source>Edit &lt;%mailbox.email&gt; </source>
-        <translation>Bewerk &lt;%mailbox.email&gt; </translation>
+        <translation>&lt;%mailbox.email&gt; bewerken </translation>
     </message>
     <message>
         <source>Add a new Blacklist item </source>
-        <translation >Voeg een nieuw Blacklist item toe </translation>
+        <translation>Nieuw item aan blacklist toevoegen</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation >email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation >Opmerking</translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Add to Blacklist</source>
-        <translation >Voeg aan Blacklist toe</translation>
+        <translation>Toevoegen aan blacklist</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation >Verwijdeer</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation >Terug</translation>
-    </message>
-    <message>
-        <source>Successfully adding newsletter user %nl_user_id with email %email to blacklist</source>
-        <translation>Gebruiker %nl_user_id met email adres %email is succesvol toegevoegd aan de blacklist</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Blacklist add item</source>
-        <translation>Voeg item aan Blacklist toe</translation>
+        <translation type="obsolete">Toevoegen item aan blacklist</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Terug</translation>
+    </message>
+    <message>
+        <source>Successfully adding newsletter user %nl_user_id with email %email to blacklist</source>
+        <translation>Gebruiker %nl_user_id (%email) is met succes aan de blacklist toegevoegd</translation>
     </message>
     <message>
         <source>Successfully adding email address %email to blacklist</source>
-        <translation >email adres %email is succesvol aan de blacklist toegevoegd</translation>
+        <translation>E-mailadres %email is met succes aan de blacklist toegevoegd</translation>
     </message>
     <message>
         <source>Blacklist add</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen aan blacklist</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/blacklist_item_list</name>
     <message>
-        <source>Blacklist overview</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>If you want that a user with a special email do not get any newsletter from this newsletter system you can blacklist him!</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Add an email to blacklist</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Toevoegen van een e-mailadres aan de blacklist</translation>
     </message>
     <message>
         <source>Create a new blacklist entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een nieuw blacklistitem.</translation>
     </message>
     <message>
         <source>Blacklist items [%children_count]</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Blacklistitems [%children_count]</translation>
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie omkeren</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Email hash</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mailhash</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Newsletter user</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Nieuwsbriefgebruiker</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecreëerd</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Auteur</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Select items for removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer items om te verwijderen</translation>
     </message>
     <message>
         <source>Blacklist item list</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Overzicht alle blacklistitems</translation>
+    </message>
+    <message>
+        <source>Blacklist overview</source>
+        <translation type="obsolete">Blacklist overzicht</translation>
+    </message>
+    <message>
+        <source>If you want that a user with a special email do not get any newsletter from this newsletter system you can blacklist him!</source>
+        <translation type="obsolete">Als een gebruiker met een specifiek e-mailadres geen mail meer ontvangen moet, voeg deze dan toe aan de blacklist.</translation>
     </message>
     <message>
         <source>Manage blacklist</source>
-        <translation type="unfinished"></translation>
+        <translation>Blacklist bewerken</translation>
     </message>
     <message>
         <source>By adding an user to the blacklist, you can make sure that he will never get a newsletter again from this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Door een gebruiker aan de blacklist toe te voegen, ontvangt deze geen enkele nieuwsbrief meer.</translation>
     </message>
     <message>
         <source>Add email address to blacklist</source>
-        <translation type="unfinished"></translation>
+        <translation>Een E-mailadres aan de blacklist toevoegen</translation>
     </message>
     <message>
         <source>Blacklisted users</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikers in de blacklist</translation>
     </message>
     <message>
         <source>Newsletter UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Newsletter UID</translation>
     </message>
     <message>
         <source>Blacklists</source>
-        <translation type="unfinished"></translation>
+        <translation>Blacklists</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_edition_preview</name>
     <message>
         <source>Do you really want to send out this newsletter to all recipients of this Newsletterlist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je deze nieuwsbrief werkelijk aan alle abonnees van deze lijst verzenden?</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_edition_send_statistic</name>
     <message>
-        <source>Newsletter Edition send out statistic</source>
-        <translation type="unfinished"></translation>
+        <source>Current Date</source>
+        <translation>Huidige Datum</translation>
     </message>
     <message>
-        <source>Current Date</source>
-        <translation type="unfinished"></translation>
+        <source>Newsletter Edition send out statistic</source>
+        <translation>Verzonden nieuwsbrieven - Statistiek</translation>
     </message>
     <message>
         <source>Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id</translation>
     </message>
     <message>
         <source>Mail count</source>
-        <translation type="unfinished"></translation>
+        <translation>Mail aantal</translation>
     </message>
     <message>
         <source>Mail send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzonden e-mails</translation>
     </message>
     <message>
         <source>Mail not send</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet verzonden e-mails</translation>
     </message>
     <message>
         <source>Mail bounced</source>
-        <translation type="unfinished"></translation>
+        <translation>Mail bounces</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Autuer</translation>
     </message>
     <message>
         <source>Abort cronjob</source>
-        <translation type="unfinished"></translation>
+        <translation>Cronjob afbreken</translation>
     </message>
     <message>
         <source>Emails count</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail aantal</translation>
     </message>
     <message>
         <source>Emails sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzonden e-mails</translation>
     </message>
     <message>
         <source>Emails opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Geopende e-mails</translation>
     </message>
     <message>
         <source>Emails not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet verzonden e-mails</translation>
     </message>
     <message>
         <source>Emails bounced</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail bounces</translation>
     </message>
     <message>
         <source>Newsletter processing info</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrief processing info</translation>
     </message>
     <message>
         <source>Cronjob status</source>
-        <translation type="unfinished"></translation>
+        <translation>Cronjob status</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistieken</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_edition_status</name>
     <message>
-        <source>Newsletter edition preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Newsletter edition preview archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edition State</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerkingsstatus</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status draft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Newsletter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status process</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>in the dispatch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>sends</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>uncompletedly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktie</translation>
+    </message>
+    <message>
+        <source>Send Newsletter</source>
+        <translation>Newsletter verzenden</translation>
+    </message>
+    <message>
+        <source>in the dispatch</source>
+        <translation>in bewerking voor verzenden</translation>
+    </message>
+    <message>
+        <source>sends</source>
+        <translation>aan het verzenden</translation>
+    </message>
+    <message>
+        <source>uncompletedly</source>
+        <translation>onvoltooid</translation>
+    </message>
+    <message>
+        <source>Newsletter edition preview</source>
+        <translation>Preview nieuwsbrief editie</translation>
+    </message>
+    <message>
+        <source>Status draft</source>
+        <translation>Status: concept</translation>
+    </message>
+    <message>
+        <source>Status process</source>
+        <translation>Status: Verzenden</translation>
+    </message>
+    <message>
+        <source>Status archive</source>
+        <translation>Status: Gearchiveerd</translation>
+    </message>
+    <message>
+        <source>Status abort</source>
+        <translation>Status: Afgebroken</translation>
+    </message>
+    <message>
+        <source>Newsletter edition preview archive</source>
+        <translation>Newsletter edition preview archive</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_list</name>
     <message>
         <source>Create newsletter here</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrief hier aanmaken</translation>
     </message>
     <message>
         <source>Newsletter editions</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrieven</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>The current selection has no result.</source>
-        <translation type="unfinished"></translation>
+        <translation>De huidige selectie gaf geen resultaat.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_list_children</name>
     <message>
         <source>Up one level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén niveau omhoog.</translation>
     </message>
     <message>
         <source>Sub items [%children_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Subitems [%children_count]</translation>
     </message>
     <message>
         <source>Show 10 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation>10 items per pagina.</translation>
     </message>
     <message>
         <source>Show 50 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation>50 items per pagina.</translation>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation>25 items per pagina.</translation>
     </message>
     <message>
         <source>Display sub items using a simple list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon subitems als eenvoudige lijst.</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Thumbnail</translation>
     </message>
     <message>
         <source>Display sub items using a detailed list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon subitems als uitgebreide lijst.</translation>
     </message>
     <message>
         <source>Detailed</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedetailleerd</translation>
     </message>
     <message>
         <source>Display sub items as thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon subitems als thumbnails.</translation>
     </message>
     <message>
         <source>The current item does not contain any sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het huidige element bevat geen subitems.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder selectie</translation>
     </message>
     <message>
         <source>Remove the selected items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder selectie uit de bovenstaande lijst.</translation>
     </message>
     <message>
         <source>You do not have permission to remove any of the items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen toestemming om items uit bovenstaande lijstte verwijderen.</translation>
     </message>
     <message>
         <source>Update priorities</source>
-        <translation type="unfinished"></translation>
+        <translation>Prioriteit opslaan</translation>
     </message>
     <message>
         <source>Apply changes to the priorities of the items in the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste prioriteit van items uit bovenstaande lijst opslaan.</translation>
     </message>
     <message>
         <source>You cannot update the priorities because you do not have permission to edit the current item or because a non-priority sorting method is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prioriteit opslaan niet gelukt. Toestemming vereist of een sorteermethode zonder prioriteit wordt gebruikt.</translation>
     </message>
     <message>
         <source>Use this menu to select the type of item you want to create then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use this menu to select the type of item you want to create then click the &quot;Create here&quot; button. The item will be created in the current location.</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for the creation then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use this menu to select the language you want to use for the creation then click the &quot;Create here&quot; button. The item will be created in the current location.</translation>
     </message>
     <message>
         <source>Create here</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier aanmaken</translation>
     </message>
     <message>
-        <source>Create a new item in the current location. Use the menu on the left to select the type of  item.</source>
+        <source>Create a new item in the current location. Use the menu on the left to select the type of item.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet beschikbaar</translation>
     </message>
     <message>
         <source>You do not have permission to create new items in the current location.</source>
-        <translation type="unfinished"></translation>
+         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Class identifier</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Class name</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Diepte</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Prioriteit</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepubliceerd</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sectie</translation>
     </message>
     <message>
         <source>You cannot set the sorting method for the current location because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use these controls to set the sorting method for the sub items of the current location.</source>
-        <translation type="unfinished"></translation>
+         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Set</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_list_children_list</name>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie omkeren.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepubliceerd</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Prioriteit</translation>
     </message>
     <message>
         <source>(disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(disabled)</translation>
     </message>
     <message>
         <source>(locked)</source>
-        <translation type="unfinished"></translation>
+        <translation>(locked)</translation>
     </message>
     <message>
         <source>Use the priority fields to control the order in which the items appear. You can use both positive and negative integers. Click the &quot;Update priorities&quot; button to apply the changes.</source>
@@ -487,7 +487,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk</translation>
     </message>
     <message>
         <source>The edition %child_name is already in sending process.</source>
@@ -495,7 +495,7 @@
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%child_name&gt; bewerken.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &quot;%child_name&quot;.</source>
@@ -503,225 +503,233 @@
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjw_newsletter_list_window_controls</name>
     <message>
         <source>Hide preview of content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview verbergen.</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview</translation>
     </message>
     <message>
         <source>Show preview of content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview tonen.</translation>
     </message>
     <message>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Details verbergen.</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Show details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Details tonen.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbare vertalingen tonen.</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen tonen.</translation>
     </message>
     <message>
         <source>Hide location overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Locaties verbergen.</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Locaties</translation>
     </message>
     <message>
         <source>Show location overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Locaties tonen.</translation>
     </message>
     <message>
         <source>Hide object relation overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objectrelaties verbergen.</translation>
     </message>
     <message>
         <source>Relations</source>
-        <translation type="unfinished"></translation>
+        <translation>Objectrelaties</translation>
     </message>
     <message>
         <source>Show object relation overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objectrelaties tonen.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjwnewsletteredition_preview</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullscreen</translation>
+    </message>
+    <message>
+        <source>Skin</source>
+        <translation>Skin</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Gearchiveerd</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/cjwnewsletteredition_preview_archive</name>
     <message>
         <source>Archive view</source>
-        <translation type="unfinished"></translation>
+        <translation>Archive view</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/configure</name>
     <message>
         <source>Configure newsletter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig uw aanmelding</translation>
     </message>
     <message>
-        <source>Newsletter confirmation successfull</source>
-        <translation type="unfinished"></translation>
+        <source>Change settings</source>
+        <translation>Instellingen wijzigen</translation>
     </message>
     <message>
-        <source>No newsletters available for configure now.</source>
-        <translation type="unfinished"></translation>
+        <source>On this page you can confirm you subscription to our newsletters.</source>
+        <translation>Op deze pagina kunt u uw aanmelding voor een van onze e-maildiensten bevestigen. Klik daarvoor op de button met &quot;Bevestigen&quot;, helemaal onderaan deze pagina.</translation>
     </message>
     <message>
-        <source>Here you can edit your attitutes for newsletter.</source>
-        <translation type="unfinished"></translation>
+        <source>Warning: If you do not confirm your subscription you will not be subscribed.</source>
+    <translation>Let op: als u uw aanmelding niet bevestigt, wordt uw e-mailadres niet opgenomen in ons adressenbestand.</translation>
     </message>
     <message>
-        <source>Please select the newsletter for subscribe or unselect the newsletter for unsubsucribe.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can also edit the small boxes &quot;first name&quot; and &quot;last name&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can not edit your email address. Please, announce yourselves once more to newsletter to use another email address.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Salutation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First name</source>
-        <translation type="unfinished"></translation>
+        <source>Newsletter confirmation successful</source>
+        <translation>Inschrijven op nieuwsbrief gelukt. U bent nu op onderstaande nieuwsbrieven ingeschreven</translation>
     </message>
     <message>
         <source>First name of the subscriber.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Voornaam van de abonnee.</translation>
     </message>
     <message>
         <source>Email of the subscriber.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail van de abonnee</translation>
     </message>
     <message>
         <source>Add to subscription.</source>
-        <translation type="unfinished"></translation>
+        <translation>toevoegen aan abonnees.</translation>
+    </message>
+    <message>
+        <source>Salutation</source>
+        <translation>Aanhef</translation>
+    </message>
+    <message>
+        <source>First name</source>
+        <translation>Voornaam</translation>
+    </message>
+    <message>
+        <source>Last name</source>
+        <translation>Achternaam</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Bevestigen</translation>
+    </message>
+    <message>
+        <source>Here you can edit your newsletter attributes.</source>
+        <translation>Als u zich eerder al heeft aangemeld voor een van onze e-maildiensten, kunt u op deze pagina uw instellingen wijzigen.</translation>
+    </message>
+    <message>
+        <source>Please select the newsletter you wish to subscribe to. Deselect to unsubscribe.</source>
+        <translation>Selecteer de nieuwsbrief waar u zich op wilt abonnneren. Deselecteer om u uit te schrijven.</translation>
+    </message>
+    <message>
+        <source>You can also edit the small boxes &quot;first name&quot; and &quot;last name&quot;.</source>
+        <translation>U kunt ook uw &quot;aanhef&quot;, &quot;voornaam&quot; en &quot;achternaam&quot; bewerken.</translation>
+    </message>
+    <message>
+        <source>Please register another email address to subscribe to the same newsletter twice.</source>
+        <translation>Uw e-mailadres kunt u hier niet aanpassen. Wilt u een ander e-mailadres gebruiken, meldt u zich dan opnieuw aan voor de nieuwsbrief. U kunt uw huidige adres hier uitschrijven.</translation>
     </message>
     <message>
         <source>* mandatory fields</source>
-        <translation type="unfinished"></translation>
+        <translation>* Verplicht</translation>
     </message>
     <message>
         <source>Changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>De aanpassingen zijn opgeslagen</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/contentstructuremenu</name>
     <message>
         <source>Fold/Unfold</source>
-        <translation type="unfinished"></translation>
+        <translation>Fold/Unfold</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Abonnee</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwerp</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Verzenden</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Archief</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Afgebroken</translation>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Abonnees</translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation type="obsolete"></translation>
+        <translation type="obsolete">Im Versand</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Gearchiveerd</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgebroken</translation>
     </message>
     <message>
         <source>Sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan het verzenden</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/datatype/cjwnewsletteredition</name>
     <message>
-        <source>The current edition is already in sending process - you have to create a new copy of this object</source>
+        <source>The current edition is already in sending process - to create a new version please stop it first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The current edition is already in sending process - to create a new version please stop it first</source>
-        <translation type="unfinished"></translation>
+        <source>The current edition is already in sending process - you have to create a new copy of this object</source>
+       <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The current edition was already send and is in archive!</source>
@@ -732,23 +740,23 @@
     <name>cjw_newsletter/datatype/cjwnewsletterlist</name>
     <message>
         <source>Main Siteaccess must be set</source>
-        <translation type="unfinished"></translation>
+       <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have to choose an output format</source>
-        <translation type="unfinished"></translation>
+       <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have to set a valid email adress</source>
-        <translation type="unfinished"></translation>
+       <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have to set a valid semder email</source>
-        <translation type="unfinished"></translation>
+       <translation>You have to set a valid sender email</translation>
     </message>
     <message>
         <source>You have to set a valid semder email adress &gt;&gt; $reciever</source>
-        <translation type="unfinished"></translation>
+        <translation>You have to set a valid sender email adress &gt;&gt; $reciever</translation>
     </message>
     <message>
         <source>List options</source>
@@ -771,7 +779,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Approve subscription after user registration?</source>
+        <source>Automatically approve subscription after user registration?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -792,6 +800,14 @@
     </message>
     <message>
         <source>Personalize newsletter if data are available?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -827,14 +843,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Personalize content</source>
         <translation type="unfinished"></translation>
     </message>
@@ -862,10 +870,6 @@
     <name>cjw_newsletter/datatype/cjwnewslettersubscription</name>
     <message>
         <source>No newsletters available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No newsletters available for configure now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -952,6 +956,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Creator</source>
         <translation type="unfinished"></translation>
     </message>
@@ -960,7 +968,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Created</source>
+        <source>Select items for removal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import list</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Imported subscription count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -968,15 +984,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Imported subscription count</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select items for removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -990,10 +998,6 @@
     <message>
         <source>Approved subscriptions in current system with import id %importId</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import list</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>Manage imports</source>
@@ -1043,11 +1047,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Imported</source>
+        <source>Imported subscription count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Imported subscription count</source>
+        <source>Imported user count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscriptions created by import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>n/a</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import list</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Imported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1068,10 +1088,6 @@
     </message>
     <message>
         <source>Approved subscriptions in current system with import id %importId</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Imported user count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1099,28 +1115,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subscriptions created by import</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import list</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Imports</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/index</name>
-    <message>
-        <source>Newsletter Drafts</source>
-        <translation type="obsolete"></translation>
-    </message>
     <message>
         <source>Structure</source>
         <translation type="obsolete"></translation>
@@ -1151,6 +1151,10 @@
     </message>
     <message>
         <source>OUTPUT</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Newsletter Drafts</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1202,7 +1206,17 @@ To activate or edit your subscription, please visit this link:
 
 %configureLink
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dag %name
+        
+Dank voor uw inschrijving voor de nieuwsbrief:
+%subscriptionList
+
+Let op! Uw inschrijving is pas definitief als u deze bevestigt door op onderstaande link te klikken en daar voor ‘Bevestigen’ te kiezen:
+
+%configureLink
+
+Met dezelfde link kunt u ook uw instellingen aanpassen.
+        </translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1229,14 @@ To edit your newsletter settings please visit the following link:
 
 %configureLink
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dag %name
+        
+Bedankt voor het gebruiken van onze nieuwsbrief.
+
+klik a.u.b. op onderstaande link om uw instellingen aan te passen:
+
+%configureLink
+</translation>
     </message>
 </context>
 <context>
@@ -1292,10 +1313,6 @@ To edit your newsletter settings please visit the following link:
 <context>
     <name>cjw_newsletter/mailbox_item_list</name>
     <message>
-        <source>Mailbox item list</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Mailbox collect mail result</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1305,14 +1322,6 @@ To edit your newsletter settings please visit the following link:
     </message>
     <message>
         <source>Added</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Already exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1340,15 +1349,7 @@ To edit your newsletter settings please visit the following link:
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Here you will find all collected emails and you can try to dectect bounce mails.</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Invert selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1404,15 +1405,35 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select mailbox item for removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>n/a</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>mailbox item list</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Mailbox item list</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select mailbox item for removal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Already exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here you will find all collected emails and you can try to dectect bounce mails.</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1502,10 +1523,6 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>email</source>
         <translation type="obsolete"></translation>
     </message>
@@ -1574,6 +1591,10 @@ To edit your newsletter settings please visit the following link:
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <source>ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manage mail accounts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1597,7 +1618,15 @@ To edit your newsletter settings please visit the following link:
 <context>
     <name>cjw_newsletter/menu</name>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Overview</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Registration form</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1605,15 +1634,15 @@ To edit your newsletter settings please visit the following link:
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Blacklist</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Mailbox item list</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Hide</source>
+        <source>Mailbox list</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Blacklist</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1621,23 +1650,15 @@ To edit your newsletter settings please visit the following link:
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Show</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mailbox list</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Import list</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Registration form</source>
+        <source>Hide</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1751,24 +1772,12 @@ To edit your newsletter settings please visit the following link:
 <context>
     <name>cjw_newsletter/send</name>
     <message>
-        <source>Send Newsletter</source>
+        <source>Send Test Newsletter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send Test Newsletter at</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Test Newsletter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Newsletter overview</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Last ten actions</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>Result of the test sending of the newsletter</source>
@@ -1791,27 +1800,35 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email Receiver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Charset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transport</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Already in the sending process!</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Send Newsletter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Abort</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
@@ -1863,28 +1880,32 @@ To edit your newsletter settings please visit the following link:
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <source>Email Receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Newsletter send objects</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Status</source>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newsletter overview</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Draft</source>
+        <source>Last ten actions</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>Process</source>
-        <translation type="obsolete"></translation>
+        <source>Content Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Archive</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Abort</source>
-        <translation type="obsolete"></translation>
+        <source>Transport</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Newsletter Send</source>
@@ -1971,43 +1992,54 @@ To edit your newsletter settings please visit the following link:
 <context>
     <name>cjw_newsletter/skin/default</name>
     <message>
+        <source>unsubscribe</source>
+        <translation>afmelden</translation>
+    </message>
+    <message>
         <source>To unsubscribe your newsletter please visit the following link</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <source>unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <source>To unsubscribe from this newsletter please visit the following link</source>
+        <translation>Wilt u deze nieuwsbrief niet meer ontvangen? Klik dan op de volgende link</translation>
+    </message>
+</context>
+<context>
+    <name>cjw_newsletter/skin/prodemos</name>
+    <message>
+        <source>To unsubscribe from this newsletter please visit the following</source>
+        <translation>Wilt u deze nieuwsbrief niet meer ontvangen? Klik dan op de volgende</translation>
     </message>
     <message>
-        <source>To unsubscribe from this newsletter please visit the following link</source>
-        <translation type="unfinished"></translation>
+        <source>To change your newsletter settings go to this</source>
+        <translation>Om uw voorkeuren te wijzigen bezoek deze</translation>
+    </message>
+    <message>
+        <source>This link will be opened in a new window</source>
+        <translation>Deze link naar een extern object zal in een nieuw venster worden geopend</translation>
+    </message>
+    <message>
+        <source>Is this newletter unreadable? Click</source>
+        <translation>Is deze nieuwsbrief niet leesbaar? Klik</translation>
+    </message>
+    <message>
+        <source>here</source>
+        <translation>hier</translation>
+    </message>
+    <message>
+        <source>for the online version.</source>
+        <translation>voor de online versie.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscribe</name>
     <message>
-        <source>Input did not validate</source>
-        <translation type="unfinished"></translation>
+        <source>Salutation</source>
+        <translation>Aanhef</translation>
     </message>
     <message>
         <source>Newsletter subscribe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No newsletters available for subscribe.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Here you can subscribe to one of our newsletters.</source>
-        <translation>Met onderstaand formulier kunt u zich inschrijven voor onze nieuwsbrieven.</translation>
-    </message>
-    <message>
-        <source>Please fill in the boxes &quot;first name&quot; and &quot;last name&quot; and enter your e-mail address in the corresponding field. Then, select the newsletter you are interested in and the format you prefer.</source>
-        <translation>Vul uw voornaam, achternaam en emailadres in en selecteer de nieuwsbrief of maildienst waar u zich op wilt abonneren.</translation>
-    </message>
-    <message>
-        <source>Salutation</source>
-        <translation>Aanhef: Dhr. / Mevr.</translation>
+        <translation>Aanmelden voor nieuwsbrief</translation>
     </message>
     <message>
         <source>First name</source>
@@ -2015,71 +2047,83 @@ To edit your newsletter settings please visit the following link:
     </message>
     <message>
         <source>First name of the subscriber.</source>
-        <translation>Voornaam van de abonee</translation>
+        <translation>Voornaam van de abonnee</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Achternaam</translation>
+       <translation>Achternaam</translation>
     </message>
     <message>
         <source>Last name of the subscriber.</source>
         <translation>Achternaam van de abonnee</translation>
     </message>
     <message>
-        <source>E-mail</source>
-        <translation>Email adres</translation>
-    </message>
-    <message>
         <source>Email of the subscriber.</source>
-        <translation>Email adres van de abonnee</translation>
+        <translation>E-mailadres van de abonnee</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation>Inschrijven</translation>
+        <translation>Aanmelden</translation>
     </message>
     <message>
         <source>Add to subscription.</source>
-        <translation>Toevoegen aan abonnement</translation>
+        <translation>Verzend aanmelding</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <source>* mandatory fields</source>
-        <translation>* verplichte velden</translation>
-    </message>
-    <message>
-        <source>Data Protection</source>
-        <translation>Gegevensbescherming</translation>
-    </message>
-    <message>
-        <source>Your e-mail address will under no circumstances be passed on to unauthorized third parties.</source>
-        <translation>Uw e-mailadres wordt vertrouwelijk behandeld en wordt nooit aan derden doorgegeven.</translation>
-    </message>
-    <message>
-        <source>Further Options</source>
-        <translation>Meer opties</translation>
-    </message>
-    <message>
-        <source>You want to %unsubscribelink or %changesubscribelink your profile?</source>
-        <translation>Wilt u uw profiel %unsubscribelink of %changesubscribelink ?</translation>
-    </message>
-    <message>
         <source>unsubscribe</source>
-        <translation>afmelden</translation>
+        <translation>opzeggen</translation>
     </message>
     <message>
         <source>change</source>
         <translation>aanpassen</translation>
     </message>
     <message>
+        <source>Input did not validate</source>
+       <translation>Invoer valideert niet</translation>
+    </message>
+    <message>
+        <source>Here you can subscribe to one of our newsletters.</source>
+        <translation>U kunt zich hier opgeven voor onze nieuwsbrieven</translation>
+    </message>
+    <message>
+        <source>Please fill in the boxes &quot;first name&quot; and &quot;last name&quot; and enter your e-mail address in the corresponding field. Then, select the newsletter you are interested in and the format you prefer.</source>
+        <translation>Geef a.u.b. uw naam op en uw e-mailadres. Kies daarna de nieuwsbrief waarop u zich wilt abonneren. Als een nieuwsbrief in meerdere formaten beschikbaar is (html of tekst) kunt u hieruit een keuze maken.</translation>
+    </message>
+    <message>
+        <source>E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Protection</source>
+        <translation type="unfinished">Privacybescherming</translation>
+    </message>
+    <message>
+        <source>Your e-mail address will under no circumstances be passed on to unauthorized third parties.</source>
+        <translation type="unfinished">Uw e-mailadres wordt onder geen enkele omstandigheid doorgegeven aan derden.</translation>
+    </message>
+    <message>
+        <source>Further Options</source>
+        <translation>Overige opties</translation>
+    </message>
+    <message>
+        <source>You want to %unsubscribelink or %changesubscribelink your profile?</source>
+        <translation>Wilt u %unsubscribelink of uw profiel %changesubscribelink?</translation>
+    </message>
+    <message>
+        <source>* mandatory fields</source>
+        <translation>* verplicht</translation>
+    </message>
+    <message>
         <source>Subscribe to newsletter</source>
-        <translation>Aanmelden bij nieuwsbrief</translation>
+        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>Subscription form</source>
-        <translation>Aanmeldingsformulier</translation>
+        <translation>Aanmeldformulier</translation>
     </message>
 </context>
 <context>
@@ -2093,158 +2137,158 @@ To edit your newsletter settings please visit the following link:
     <name>cjw_newsletter/subscribe_infomail</name>
     <message>
         <source>Newsletter - Edit profile</source>
-        <translation>Nieuwsbrief - Bewerk profiel</translation>
-    </message>
-    <message>
-        <source>Input did not validate</source>
-        <translation>Onjuiste invoer</translation>
+        <translation>Nieuwsbrief - Profiel aanpassen</translation>
     </message>
     <message>
         <source>Enter the e-mail address you originally used to subscribe and you will be sent a link to edit you data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef het e-mailadres op waaronder u staat ingeschreven. U ontvangt een e-mail met daarin een link om uw instellingen aan te passen.</translation>
     </message>
     <message>
         <source>E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden</translation>
+    </message>
+    <message>
+        <source>Input did not validate</source>
+        <translation>Validatie mislukt</translation>
     </message>
     <message>
         <source>* mandatory fields</source>
-        <translation type="unfinished"></translation>
+        <translation>* verplicht veld</translation>
     </message>
     <message>
         <source>email</source>
-        <translation type="unfinished"></translation>
+        <translation>e-mail</translation>
     </message>
     <message>
         <source>Please input a valid e-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef svp een geldig e-mail adres op!</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscribe_infomail_success</name>
     <message>
         <source>Newsletter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E-mail has been sent!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you are a valid newsletter user, an e-mail has been sent to you with all information required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrief</translation>
     </message>
     <message>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>Terug</translation>
+    </message>
+    <message>
+        <source>E-mail has been sent!</source>
+        <translation>E-mail verzonden!</translation>
+    </message>
+    <message>
+        <source>If you are a valid newsletter user, an e-mail has been sent to you with all information required!</source>
+        <translation>Een e-mail met de informatie die u nodig heeft is naar u verzonden.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscribe_success</name>
     <message>
         <source>Newsletter - subscribe success</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrief - aanmelden gelukt</translation>
     </message>
     <message>
         <source>You are registered for our newsletter.</source>
-        <translation type="unfinished"></translation>
+        <translation>U bent geabonneerd op onze nieuwsbrief</translation>
     </message>
     <message>
         <source>An email was sent to your address %email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een e-mail is verzonden naar %email.</translation>
     </message>
     <message>
         <source>Please note that your subscription is only active if you clicked confirmation link in these email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Let op, uw inschrijving wordt pas geactiveerd als u op de bevestigingslink in deze mail hebt geklikt.</translation>
     </message>
     <message>
         <source>You have the possibility of changing your personal profile at any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kunt uw persoonlijke profiel te allen tijde aanpassen.</translation>
     </message>
     <message>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>terug</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscribe_success_not</name>
     <message>
         <source>Newsletter - subscribe unsuccessfull</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwsbrief - inschrijven niet gelukt</translation>
     </message>
     <message>
         <source>Please contact the system administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Neem a.u.b. contact op met de webmaster</translation>
     </message>
     <message>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>terug</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscription</name>
     <message>
-        <source>Newsletter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must choose a list for subscription.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a first name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voornaam</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a last name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Achternaam</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Newsletter</source>
+        <translation>Nieuwsbrief</translation>
+    </message>
+    <message>
+        <source>You must choose a list for subscription.</source>
+        <translation>Kies op welke nieuwsbrief u zich wilt abonneren.</translation>
+    </message>
+    <message>
+        <source>You must enter a first name.</source>
+        <translation>Geef uw voornaam op.</translation>
+    </message>
+    <message>
+        <source>You must enter a last name.</source>
+        <translation>Geef uw achternaam op.</translation>
     </message>
     <message>
         <source>You must provide a valid email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef een geldig e-mailadres op.</translation>
     </message>
     <message>
         <source>Email is already used by an other newsletter user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit e-mailadres is al in gebruik.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscription/status</name>
     <message>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>In afwachting</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestigd</translation>
     </message>
     <message>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Goedgekeurd</translation>
     </message>
     <message>
         <source>Removed by user</source>
-        <translation type="unfinished"></translation>
+       <translation>Uitgeschreven door de abonnee</translation>
     </message>
     <message>
         <source>Removed by admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitgeschreven door de admin</translation>
     </message>
     <message>
         <source>Bounced soft</source>
@@ -2263,58 +2307,18 @@ To edit your newsletter settings please visit the following link:
     <name>cjw_newsletter/subscription_confirmation</name>
     <message>
         <source>Subscription verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificatie aanmelding</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscription_information</name>
     <message>
         <source>Subscription information</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanmeldingsinformatie</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/subscription_list</name>
-    <message>
-        <source>Id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Newsletter User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Created</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modified</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remote id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>NL user import id</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Subscription list &lt;%subscription_list_name&gt;</source>
         <translation type="unfinished"></translation>
@@ -2330,6 +2334,10 @@ To edit your newsletter settings please visit the following link:
     <message>
         <source>Published</source>
         <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Short description</source>
@@ -2352,10 +2360,6 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ID</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2368,7 +2372,15 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>eZ ID</source>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2408,12 +2420,44 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hash</source>
+        <source>Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>List Subscription List</source>
         <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>eZ ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newsletter User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NL user import id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export CSV</source>
@@ -2502,6 +2546,10 @@ To edit your newsletter settings please visit the following link:
 <context>
     <name>cjw_newsletter/subscription_list_csvimport</name>
     <message>
+        <source>Subscription list CSV import</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
         <source>Subscription import with CSV</source>
         <translation type="obsolete"></translation>
     </message>
@@ -2510,19 +2558,11 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import   Id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import done</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Csv File Uploaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>First row is label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import note</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2534,7 +2574,11 @@ To edit your newsletter settings please visit the following link:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import note</source>
+        <source>Csv File Uploaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import   Id</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2555,6 +2599,14 @@ To edit your newsletter settings please visit the following link:
     </message>
     <message>
         <source>Invert selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import done</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2608,14 +2660,6 @@ To edit your newsletter settings please visit the following link:
     <message>
         <source>updated</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription list CSV import</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>Subscription CSV import</source>
@@ -2741,53 +2785,60 @@ To edit your newsletter settings please visit the following link:
     <name>cjw_newsletter/unsubscribe</name>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitschrijven</translation>
+    </message>
+    <message>
+        <source>Hi %name
+
+        You unsubscribe successfully from List &quot;%listName&quot;.</source>
+        <translation>Dag %name
+        
+        Uw bent met succes uitgeschreven van de nieuwsbrief &quot;%listName&quot;.
+        </translation>
+    </message>
+    <message>
+        <source>Unsubscribe from list.</source>
+        <translation>Uitschrijven.</translation>
+    </message>
+    <message>
+        <source>Unsubscription already done</source>
+        <translation>Uitschrijven is al gedaan.</translation>
+    </message>
+    <message>
+        <source>Hi %name
+
+        You already unsubscribed from List &quot;%listName&quot;.</source>
+       <translation>Dag %name
+       
+       U bent al uitgeschreven uit de lijst &quot;%listName&quot;.</translation>
+    </message>
+    <message>
+        <source>Unsubscribe success</source>
+        <translation>Uitschrijven gelukt.</translation>
     </message>
     <message>
         <source>Hi %name
 
 If you want to unsubscribe from from List &quot;%listName&quot;
 you have to confirm this page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsubscribe from list.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsubscription already done</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hi %name
-
-        You already unsubscribed from List &quot;%listName&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsubscribe success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hi %name
-
-        You unsubscribe successfully from List &quot;%listName&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dag %name
+        als u zich wilt uitschrijven voor de lijst &quot;%listName&quot;
+        moet u deze pagina bevestigen.</translation>
     </message>
 </context>
 <context>
     <name>cjw_newsletter/user/salutation</name>
     <message>
         <source>Mr</source>
-        <translation type="unfinished"></translation>
+        <translation>De heer</translation>
     </message>
     <message>
         <source>Mrs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevrouw</translation>
     </message>
     <message>
         <source>Ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevrouw</translation>
     </message>
 </context>
 <context>
@@ -2922,14 +2973,6 @@ you have to confirm this page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ID</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lists</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2984,6 +3027,14 @@ you have to confirm this page.</source>
     <message>
         <source>Newsletter user list</source>
         <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create Newsletter user</source>
@@ -3063,14 +3114,6 @@ you have to confirm this page.</source>
 </context>
 <context>
     <name>cjw_newsletter/user_view</name>
-    <message>
-        <source>Newsletter user</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Id</source>
         <translation type="unfinished"></translation>
@@ -3156,10 +3199,6 @@ you have to confirm this page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add this user to blacklist</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Subscription items [%subscription_count]</source>
         <translation type="obsolete"></translation>
     </message>
@@ -3181,6 +3220,18 @@ you have to confirm this page.</source>
     </message>
     <message>
         <source>Processed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newsletter user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add this user to blacklist</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3326,6 +3377,10 @@ you have to confirm this page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use these checkboxes to select items for removal. Click the &quot;Remove selected&quot; button to  remove the selected items.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3339,10 +3394,6 @@ you have to confirm this page.</source>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
