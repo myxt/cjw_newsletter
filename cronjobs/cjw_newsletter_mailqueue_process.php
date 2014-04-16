@@ -66,6 +66,7 @@ foreach ( $sendObjectList as $sendObject )
 
     $emailSender = $sendObject->attribute( 'email_sender' );
     $emailSenderName = $sendObject->attribute( 'email_sender_name' );
+    $editionHash = $sendObject->attribute( 'hash' );
     $personalizeContent = (int) $sendObject->attribute( 'personalize_content' );
 
     $limit = 50;
@@ -110,11 +111,12 @@ foreach ( $sendObjectList as $sendObject )
             // TODO parse extra variables
 
             $searchArray =  array( '#_hash_unsubscribe_#',
-                                   '#_hash_configure_#');
+                                   '#_hash_configure_#',
+			           '#_hash_archive_#');
 
             $replaceArray =  array( $newsletterUnsubscribeHash,
-                                    $newsletterConfigureHash );
-
+                                    $newsletterConfigureHash,
+				    $editionHash );
             if( $personalizeContent === 1 )
             {
                 $searchArray = array_merge( $searchArray,

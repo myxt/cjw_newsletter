@@ -78,12 +78,12 @@
 
                     {$current_send_statistic.items_send|wash}/{$current_send_statistic.items_count|wash} ({$current_send_statistic.items_send_in_percent|wash}%)
 
-                    {undef $current_send_statistic}
                 {/if}
             </td>
             <td nowrap>
                 {if $edition_status|ne('draft')}
                     {$current_send_statistic.items_bounced|wash}
+                    {undef $current_send_statistic}
                 {/if}
             </td>
 

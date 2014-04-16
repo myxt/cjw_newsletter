@@ -657,12 +657,14 @@ class CjwNewsletterSubscription extends eZPersistentObject
                 break;
             case -20:
             case -1:
+/* If this is set you cannot update an existing user from the subscribe page
                 if( $context == 'subscribe' )
                 {
                     eZDebug::writeDebug( "checkResult[$checkResult] - CjwNewsletterSubscription::createSubscriptionByArray return false because email already exists" );
                     // break because a newsletter user with email exists
                     return false;
                 }
+*/
                 break;
         }
 

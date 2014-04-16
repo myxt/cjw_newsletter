@@ -47,7 +47,8 @@ switch( $outputFormatId )
 {
     // html
     case 0:
-        $newsletterContent = $newsletterContentArray['body']['html'];
+$html_output = preg_replace('<div class="archive-remove">.*</div>','',$newsletterContentArray['body']['html']);
+        $newsletterContent = $html_output;
         break;
         // text
     case 1:

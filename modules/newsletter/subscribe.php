@@ -185,6 +185,7 @@ if ( $module->isCurrentAction( 'Subscribe' ) )
 
         // email exists but subscription for email is done again
         // => email send with configure link
+/* If this is set you cannot update an existing user from the subscribe page
         if ( is_object( $existingNewsletterUserObject) )
         {
             $tpl->setVariable( 'user_email_already_exists', $subscriptionDataArr['email'] );
@@ -208,7 +209,9 @@ if ( $module->isCurrentAction( 'Subscribe' ) )
             }
         }
         // all is ok -> send confirmation email
-        else if ( count( $warningArr ) == 0 )
+        else
+*/
+	        if ( count( $warningArr ) == 0 )
         {
             // subscribe to all selected lists
             $subscriptionResultArray = CjwNewsletterSubscription::createSubscriptionByArray( $subscriptionDataArr,
