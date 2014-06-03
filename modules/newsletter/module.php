@@ -258,6 +258,12 @@ $ViewList['archive'] = array(
     'default_navigation_part' => 'eznewsletternavigationpart',
     'params' => array( 'EditionSendHash', 'OutputFormatId', 'SubscriptionHash' ) );
 
+$ViewList['statistics'] = array(
+    'script' => 'statistics.php',
+    'functions' => array( 'statistics' ),
+    'default_navigation_part' => 'eznewsletternavigationpart',
+    'params' => array( 'nodeID' ) );
+
 $FunctionList['subscribe'] = array();
 $FunctionList['configure'] = array();
 $FunctionList['unsubscribe'] = array();
@@ -284,6 +290,7 @@ $FunctionList['blacklist_item'] = array();
 $FunctionList['blacklist_item'] = array();
 $FunctionList['import_list'] = array();
 $FunctionList['import_view'] = array();
+$FunctionList['statistics'] = array();
 
 $FunctionList['admin'] = array(); // for display / hide of admin menue
 
