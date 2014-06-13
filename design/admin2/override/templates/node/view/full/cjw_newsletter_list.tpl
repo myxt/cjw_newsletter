@@ -160,7 +160,7 @@
     <input class="button" type="submit" name="NewSubscriptionButton" value="{'Create new Subscription'|i18n( 'cjw_newsletter/subscription_list' )}" />
 </form>
 </div>
-
+	   <a href={concat("/newsletter/statistics/",$node.main_node_id)|ezurl}><input class="button" value="Bestand statistieken" alt="Statistieken" title="Download csv met bestand download statistieken" type="button"></a>
 </div>
 
 <div class="float-break"></div>

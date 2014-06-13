@@ -2,6 +2,6 @@
 {if $attribute.content}
 <a target="_blank" href={concat( 'content/download/', $attribute.contentobject_id, '/', $attribute.id,'/version/', $attribute.version , '/file/', $attribute.content.original_filename|urlencode )|ezurl}>lees meer</a>
 <p>
-{"Download count"|i18n("i18n('cjw_newsletter/datatype/ezbinaryfiletype')}: {$attribute.content.download_count|wash}
+{"Download count"|i18n('cjw_newsletter/datatype/ezbinaryfiletype')}: {$attribute.content.download_count|wash}
 </p>
 {/if}

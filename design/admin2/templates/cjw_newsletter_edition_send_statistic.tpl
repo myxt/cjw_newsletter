@@ -1,7 +1,7 @@
 
 <div class="context-block">
-
 <h2 class="context-title">{'Statistics'|i18n( 'cjw_newsletter/cjw_newsletter_edition_send_statistic' )}</h2>
+
  <table class="list" cellspacing="0">
         <tr>
             <th>{'Id'|i18n( 'cjw_newsletter/cjw_newsletter_edition_send_statistic' )}</th>
@@ -31,7 +31,9 @@
         {/foreach}
         {*$editionSendObject|attribute(show)*}
         </table>
-
+	{*<p>
+	   <a href={concat("/newsletter/statistics/",$node.main_node_id)|ezurl}><input class="button" value="Bestand statistieken" alt="Statistieken" title="Download csv met bestand download statistieken" type="button"></a>*}
+	</p>
 </div>
 
 {set $edition_send_object = $current_edition_send_object}
