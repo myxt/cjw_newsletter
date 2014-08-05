@@ -19,7 +19,6 @@ $row=array();
 
 $NodeID = $Params['nodeID'];
 
-//eZFire::debug($NodeID,"MODULE NODE ID");
 if ( !$user )
 {
 	$user = eZUser::instance();
@@ -85,7 +84,6 @@ if ( $accessResult['accessWord'] != "no" ) {
 							$downloadCount=$attribute->Content()->attribute("download_count");
 						}
 						if ( $attribute->attribute( "contentclass_attribute_identifier" ) == "pip_item_file" ) {
-							//eZFire::debug($attribute,"ATTRIBUTE");
 							if($attribute->attribute( "data_int" )) {
 								$docNode =  eZContentObjectTreeNode::fetchByContentObjectID($attribute->attribute( "data_int" ), true );
 								$docNode =  $docNode[0];
@@ -95,8 +93,11 @@ if ( $accessResult['accessWord'] != "no" ) {
 								$downloadCount=$docAttribute->Content()->attribute("download_count");
 							}
 						}
+						$editionVersion = $edition->Object()->attribute( "current_version");
+						$editionSendObject = CjwNewsletterEditionSend::fetchByEditionContentObjectIdVersion( $edition->Object()->ID, $editionVersion );
+ 						$sendTime = date( "Y/m/d H:i:s" ,$editionSendObject[0]->attribute('mailqueue_process_finished') );
 						//newsletter name,link?,newsletter edition, link?, relevent object, filename, link?, count
-						$rows[]='"'.$parentNode->Name .'","'.$editionName.'","'.$childName.'","'.$filename.'","'.$downloadCount.'"';
+						$rows[]='"'.$parentNode->Name .'","'.$editionName.'","'.$sendTime.'","'.$childName.'","'.$filename.'","'.$downloadCount.'"';
 					}
 				}
 			}
@@ -115,7 +116,7 @@ if ( $accessResult['accessWord'] != "no" ) {
 			$boundary = md5(time());
 			header('Content-Type: multipart/form-data; boundary='.$boundary);
 			ob_clean();
-			echo '"nieuwsbrief","editie","artikel","document","aantal"'."\n";
+			echo '"nieuwsbrief","editie","verzenddatum","artikel","document","aantal"'."\n";
 			//This is the list of stuff
 			foreach($rows as $row) {
 				//These are the rows.
